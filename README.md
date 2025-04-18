@@ -1,17 +1,17 @@
 readme_content = """
-# 🌐 SBU_DoIT_Sandbox
+#  SBU_DoIT_Sandbox
 
 This repository contains a Terraform-based automation project that provisions a complete **LAMP stack** (Linux, Apache, MySQL, PHP) on **Microsoft Azure**, designed for the Stony Brook University IT Sandbox environment.
 
-> ✅ Fully deployable infrastructure  
-> 🐧 Ubuntu-based VM  
-> 🔐 Configured with a secure public IP  
-> 🧰 Automatically installs Apache, MySQL, PHP via shell script  
-> ☁️ Built using Terraform + Azure CLI
+>  Fully deployable infrastructure  
+>  Ubuntu-based VM  
+>  Configured with a secure public IP  
+>  Automatically installs Apache, MySQL, PHP via shell script  
+>  Built using Terraform + Azure CLI
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 | File | Description |
 |------|-------------|
@@ -24,16 +24,16 @@ This repository contains a Terraform-based automation project that provisions a 
 
 ---
 
-## 🚀 How to Deploy
+##  How to Deploy
 
-### 🔧 Prerequisites
+###  Prerequisites
 
 - [Terraform](https://developer.hashicorp.com/terraform/downloads)
 - [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
 - Azure subscription (e.g. via Stony Brook's student sandbox)
 - Git installed locally
 
-### ✅ Steps
+###  Steps
 
 1. **Clone this repository**
 
